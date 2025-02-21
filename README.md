@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ashishguleria04/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
 |  |
@@ -21,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ashishguleria04/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ashishguleria04/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
@@ -88,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
