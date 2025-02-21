@@ -11,7 +11,7 @@
  */
 class FindElements {
 private:
-    unordered_set<int> values;  // Store recovered values
+    unordered_set<int> values; 
 
     void recover(TreeNode* node, int val) {
         if (!node) return;
