@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [1127-last-stone-weight](https://github.com/ashishguleria04/DSA-Practice/tree/master/1127-last-stone-weight) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishguleria04/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ashishguleria04/DSA-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashishguleria04/DSA-Practice/tree/master/0001-two-sum) |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2107-find-unique-binary-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
@@ -140,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Sliding Window
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
