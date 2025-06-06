@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashishguleria04/DSA-Practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/ashishguleria04/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0860-design-circular-queue](https://github.com/ashishguleria04/DSA-Practice/tree/master/0860-design-circular-queue) |
 | [1127-last-stone-weight](https://github.com/ashishguleria04/DSA-Practice/tree/master/1127-last-stone-weight) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishguleria04/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/ashishguleria04/DSA-Practice/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/ashishguleria04/DSA-Practice/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Heap (Priority Queue)
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/ashishguleria04/DSA-Practice/tree/master/0860-design-circular-queue) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/ashishguleria04/DSA-Practice/tree/master/0937-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/ashishguleria04/DSA-Practice/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
