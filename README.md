@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishguleria04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashishguleria04/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -113,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/ashishguleria04/DSA-Practice/tree/master/0937-online-stock-span) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Design
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/ashishguleria04/DSA-Practice/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
