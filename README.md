@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishguleria04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ashishguleria04/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ashishguleria04/DSA-Practice/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ashishguleria04/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
