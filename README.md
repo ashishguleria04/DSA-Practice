@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashishguleria04/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashishguleria04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ashishguleria04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashishguleria04/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashishguleria04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0860-design-circular-queue](https://github.com/ashishguleria04/DSA-Practice/tree/master/0860-design-circular-queue) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashishguleria04/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ashishguleria04/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashishguleria04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 ## Stack
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashishguleria04/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
 ## Queue
 |  |
 | ------- |
