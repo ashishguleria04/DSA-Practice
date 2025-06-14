@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashishguleria04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ashishguleria04/DSA-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ashishguleria04/DSA-Practice/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/ashishguleria04/DSA-Practice/tree/master/0860-design-circular-queue) |
+| [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/ashishguleria04/DSA-Practice/tree/master/1127-last-stone-weight) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishguleria04/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ashishguleria04/DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/ashishguleria04/DSA-Practice/tree/master/1127-last-stone-weight) |
 ## Math
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashishguleria04/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
+| [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -221,4 +225,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2058-concatenation-of-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
