@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashishguleria04/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ashishguleria04/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashishguleria04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ashishguleria04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashishguleria04/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ashishguleria04/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashishguleria04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishguleria04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ashishguleria04/DSA-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
 ## String
 |  |
