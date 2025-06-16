@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ashishguleria04/DSA-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ashishguleria04/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ashishguleria04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
