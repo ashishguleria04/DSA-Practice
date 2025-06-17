@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ashishguleria04/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ashishguleria04/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -43,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ashishguleria04/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Array
@@ -115,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ashishguleria04/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0816-design-hashset](https://github.com/ashishguleria04/DSA-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ashishguleria04/DSA-Practice/tree/master/0817-design-hashmap) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
