@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishguleria04/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/ashishguleria04/DSA-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ashishguleria04/DSA-Practice/tree/master/0817-design-hashmap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/ashishguleria04/DSA-Practice/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/ashishguleria04/DSA-Practice/tree/master/1894-merge-strings-alternately) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishguleria04/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ashishguleria04/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishguleria04/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
