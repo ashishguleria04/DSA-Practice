@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashishguleria04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/ashishguleria04/DSA-Practice/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0816-design-hashset](https://github.com/ashishguleria04/DSA-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ashishguleria04/DSA-Practice/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/ashishguleria04/DSA-Practice/tree/master/0860-design-circular-queue) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishguleria04/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishguleria04/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ashishguleria04/DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/ashishguleria04/DSA-Practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/ashishguleria04/DSA-Practice/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/ashishguleria04/DSA-Practice/tree/master/1894-merge-strings-alternately) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/ashishguleria04/DSA-Practice/tree/master/1127-last-stone-weight) |
 ## Math
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishguleria04/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
