@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ashishguleria04/DSA-Practice/tree/master/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
 | ------- |
