@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ashishguleria04/DSA-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishguleria04/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
