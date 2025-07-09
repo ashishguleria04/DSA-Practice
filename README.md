@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3321-type-of-triangle](https://github.com/ashishguleria04/DSA-Practice/tree/master/3321-type-of-triangle) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ashishguleria04/DSA-Practice/tree/master/0917-boats-to-save-people) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Design
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ashishguleria04/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
