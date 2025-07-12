@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashishguleria04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishguleria04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/ashishguleria04/DSA-Practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashishguleria04/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/ashishguleria04/DSA-Practice/tree/master/0917-boats-to-save-people) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ashishguleria04/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ashishguleria04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/ashishguleria04/DSA-Practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashishguleria04/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0816-design-hashset](https://github.com/ashishguleria04/DSA-Practice/tree/master/0816-design-hashset) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashishguleria04/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/ashishguleria04/DSA-Practice/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/ashishguleria04/DSA-Practice/tree/master/0917-boats-to-save-people) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ashishguleria04/DSA-Practice/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |
