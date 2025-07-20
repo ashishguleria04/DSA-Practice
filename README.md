@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ashishguleria04/DSA-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/ashishguleria04/DSA-Practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2058-concatenation-of-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2058-concatenation-of-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashishguleria04/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashishguleria04/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2479-meeting-rooms-iii](https://github.com/ashishguleria04/DSA-Practice/tree/master/2479-meeting-rooms-iii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ashishguleria04/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashishguleria04/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1894-merge-strings-alternately](https://github.com/ashishguleria04/DSA-Practice/tree/master/1894-merge-strings-alternately) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashishguleria04/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3617-find-the-original-typed-string-i) |
@@ -334,11 +337,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashishguleria04/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ashishguleria04/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashishguleria04/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/ashishguleria04/DSA-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ashishguleria04/DSA-Practice/tree/master/0817-design-hashmap) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/ashishguleria04/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Simulation
 |  |
 | ------- |
