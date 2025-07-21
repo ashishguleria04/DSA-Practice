@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ashishguleria04/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashishguleria04/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1894-merge-strings-alternately](https://github.com/ashishguleria04/DSA-Practice/tree/master/1894-merge-strings-alternately) |
