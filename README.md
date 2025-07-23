@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ashishguleria04/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ashishguleria04/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ashishguleria04/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/ashishguleria04/DSA-Practice/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ashishguleria04/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2107-find-unique-binary-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ashishguleria04/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/ashishguleria04/DSA-Practice/tree/master/0937-online-stock-span) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ashishguleria04/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ashishguleria04/DSA-Practice/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/ashishguleria04/DSA-Practice/tree/master/0917-boats-to-save-people) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/ashishguleria04/DSA-Practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
