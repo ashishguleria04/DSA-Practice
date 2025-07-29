@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishguleria04/DSA-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2479-meeting-rooms-iii](https://github.com/ashishguleria04/DSA-Practice/tree/master/2479-meeting-rooms-iii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashishguleria04/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3321-type-of-triangle](https://github.com/ashishguleria04/DSA-Practice/tree/master/3321-type-of-triangle) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/ashishguleria04/DSA-Practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ashishguleria04/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashishguleria04/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ashishguleria04/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashishguleria04/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashishguleria04/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
