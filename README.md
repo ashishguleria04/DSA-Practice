@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ashishguleria04/DSA-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2479-meeting-rooms-iii](https://github.com/ashishguleria04/DSA-Practice/tree/master/2479-meeting-rooms-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashishguleria04/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishguleria04/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3321-type-of-triangle](https://github.com/ashishguleria04/DSA-Practice/tree/master/3321-type-of-triangle) |
@@ -382,4 +383,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashishguleria04/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishguleria04/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ashishguleria04/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
