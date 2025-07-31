@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ashishguleria04/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ashishguleria04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashishguleria04/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ashishguleria04/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ashishguleria04/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishguleria04/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishguleria04/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ashishguleria04/DSA-Practice/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/ashishguleria04/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashishguleria04/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
