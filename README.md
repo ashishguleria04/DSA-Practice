@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ashishguleria04/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ashishguleria04/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ashishguleria04/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ashishguleria04/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ashishguleria04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashishguleria04/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashishguleria04/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashishguleria04/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashishguleria04/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/ashishguleria04/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/ashishguleria04/DSA-Practice/tree/master/0937-online-stock-span) |
