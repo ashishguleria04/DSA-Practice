@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/ashishguleria04/DSA-Practice/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/ashishguleria04/DSA-Practice/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ashishguleria04/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/ashishguleria04/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/ashishguleria04/DSA-Practice/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ashishguleria04/DSA-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ashishguleria04/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/ashishguleria04/DSA-Practice/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ashishguleria04/DSA-Practice/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/ashishguleria04/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/ashishguleria04/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashishguleria04/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/ashishguleria04/DSA-Practice/tree/master/0940-fruit-into-baskets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishguleria04/DSA-Practice/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashishguleria04/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
