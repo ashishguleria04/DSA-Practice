@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ashishguleria04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ashishguleria04/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashishguleria04/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ashishguleria04/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ashishguleria04/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishguleria04/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashishguleria04/DSA-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashishguleria04/DSA-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ashishguleria04/DSA-Practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ashishguleria04/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashishguleria04/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashishguleria04/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashishguleria04/DSA-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
