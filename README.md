@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ashishguleria04/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ashishguleria04/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ashishguleria04/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashishguleria04/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ashishguleria04/DSA-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ashishguleria04/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0948-sort-an-array) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashishguleria04/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ashishguleria04/DSA-Practice/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/ashishguleria04/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ashishguleria04/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashishguleria04/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -488,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ashishguleria04/DSA-Practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
