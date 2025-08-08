@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ashishguleria04/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishguleria04/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishguleria04/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0826-soup-servings](https://github.com/ashishguleria04/DSA-Practice/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ashishguleria04/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishguleria04/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishguleria04/DSA-Practice/tree/master/2262-solving-questions-with-brainpower) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ashishguleria04/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashishguleria04/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0189-rotate-array) |
+| [0826-soup-servings](https://github.com/ashishguleria04/DSA-Practice/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashishguleria04/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashishguleria04/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3321-type-of-triangle](https://github.com/ashishguleria04/DSA-Practice/tree/master/3321-type-of-triangle) |
@@ -499,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashishguleria04/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/ashishguleria04/DSA-Practice/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
