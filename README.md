@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ashishguleria04/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ashishguleria04/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ashishguleria04/DSA-Practice/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ashishguleria04/DSA-Practice/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ashishguleria04/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0826-soup-servings](https://github.com/ashishguleria04/DSA-Practice/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ashishguleria04/DSA-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ashishguleria04/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ashishguleria04/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/ashishguleria04/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ashishguleria04/DSA-Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ashishguleria04/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashishguleria04/DSA-Practice/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/ashishguleria04/DSA-Practice/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ashishguleria04/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ashishguleria04/DSA-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ashishguleria04/DSA-Practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
